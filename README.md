@@ -1,2 +1,2 @@
 # sistema-objetos-perdidos
-Proyecto académico individual del Sistema de Objetos Perdidos desarrollado con GitHub.
+Sistema de objetos perdidos desarrollado por CEVEDA TECH con control de versiones en GitHub.
