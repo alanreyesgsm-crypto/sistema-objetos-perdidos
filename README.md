@@ -1,2 +1,2 @@
 # sistema-objetos-perdidos
-Sistema de objetos perdidos con enfoque en control de versiones, ramas y merges.
+Proyecto académico individual del Sistema de Objetos Perdidos, orientado a demostrar el uso de ramas, commits, merges y resolución de conflictos en GitHub.
