@@ -1,2 +1,2 @@
 # sistema-objetos-perdidos
-Proyecto de control de versiones del Sistema de Objetos Perdidos
+Proyecto académico individual del Sistema de Objetos Perdidos desarrollado con GitHub.
