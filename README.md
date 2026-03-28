@@ -1,2 +1,2 @@
 # sistema-objetos-perdidos
-Proyecto escolar orientado a demostrar el uso de ramas, commits y merges en GitHub.
+Sistema de objetos perdidos con enfoque en control de versiones, ramas y merges.
